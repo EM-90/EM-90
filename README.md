@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello!
+I am studying to become a front end developer
+- i am currently learning Javascript
+- working part time as a UX/UI designer
 
 <!--
 **EM-90/EM-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
