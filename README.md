@@ -1,7 +1,11 @@
-Hello!
-I am studying to become a front end developer
-- i am currently learning Javascript
-- working part time as a UX/UI designer
+Hi, My name is Eirik Michielsen!
+I studied Front-end development at Noroff school of technology and digital media.
+- I am currently diving deeper into React, TypeScript, Tailwind, and a lot of other technologies.
+- Working part-time as a UX/UI designer.
+- My goal is to combine UX/UI, front-end development, and my research and analytical skills to excel in product development ✨.
+- My creative journey started with art and drawing, then transitioned to creating music. Now, I have found my passion in designing and developing functional web pages.
+- I am also interested in becoming skilled at marketing products.
+ 
 
 <!--
 **EM-90/EM-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
